@@ -2,6 +2,17 @@
 
 This link contains the story behind the data: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/24/
 
+# Recommendations
+
+<img width="508" alt="Lake Rukwa and RuvumaSouthern Coast Story" src="https://user-images.githubusercontent.com/77934915/135730420-89e79c94-ea7f-47c9-96c1-1d52ffea6ecc.png">
+
+<img width="508" alt="Lakes and Dams Story" src="https://user-images.githubusercontent.com/77934915/135730443-b7abfb5e-770f-41ea-936f-01d607a9a22a.png">
+
+<img width="508" alt="Salty Water and Unknown Water Quality Story" src="https://user-images.githubusercontent.com/77934915/135730447-8bf240d2-aa0b-426a-aa0f-82e59ffc19a7.png">
+
+
+
+
 # Data Dictionary for this Dataset
 
 ## Features of The Pumps
