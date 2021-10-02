@@ -2,7 +2,7 @@
 
 **FULL README COMING SOON**
 
-**SPOILER RECOMMENDATION PICTURES WERE MADE IN TABLEAU**
+**SPOILER: RECOMMENDATION PICTURES WERE MADE IN TABLEAU!!!**
 
 This link contains the story behind the data: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/24/
 
