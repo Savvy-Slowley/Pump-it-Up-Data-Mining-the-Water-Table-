@@ -1,6 +1,21 @@
-# Pump-it-Up-Data-Mining-the-Water-Table-
+# Tanzania Pump Prediction Overview
+
+**FULL README COMING SOON**
+
+**SPOILER RECOMMENDATION PICTURES WERE MADE IN TABLEAU**
 
 This link contains the story behind the data: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/24/
+
+# Generating and Cleaning the Data
+
+
+# Exploratory Data Analysis
+
+
+# Building the Models
+
+
+# Results
 
 # Recommendations
 
